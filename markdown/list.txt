@@ -1,0 +1,8 @@
+heading
+lists
+emphasis
+links
+block of code
+images
+blockquotes
+horizontal rules
